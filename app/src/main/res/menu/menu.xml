@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Previous"
+        android:id="@+id/prev"
+        app:showAsAction="never"
+        ></item>
+    <item android:title="Random"
+        android:id="@+id/random"
+        app:showAsAction="never"
+        ></item>
+    <item android:title="Next"
+        android:id="@+id/next"
+        app:showAsAction="never"
+        ></item>
+
+</menu>
